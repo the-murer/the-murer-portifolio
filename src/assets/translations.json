@@ -1,0 +1,38 @@
+{
+    "en": {
+      "translation": {
+        "Hedader Home": "Home",
+        "Hedader About": "About Me",
+        "Hedader Projects": "Projects",
+        "Presentation": "Welcome to my portfolio",
+        "Who i am": "I am Bruno an"
+      }
+    },
+    "pt": {
+      "translation": {
+        "Hedader Home": "Inicio",
+        "Hedader About": "Sobre mim",
+        "Hedader Projects": "Projetos",
+        "Presentation": "Bem vindo ao meu portifolio",
+        "Who i am": "Eu sou Bruno um"
+      }
+    },
+    "es": {
+        "translation": {
+          "Hedader Home": "Inicio",
+          "Hedader About": "Sobre mí",
+          "Hedader Projects": "Proyectos",
+          "Presentation": "Bienvenido a mi portafolio",
+          "Who i am": "Soy Bruno un"
+        }
+      },
+    "it": {
+        "translation": {
+          "Hedader Home": "Home",
+          "Hedader About": "Chi sono",
+          "Hedader Projects": "Progetti",
+          "Presentation": "Benvenuti nel mio portafoglio",
+          "Who i am": "Sono Bruno un"
+        }
+      }
+  }
